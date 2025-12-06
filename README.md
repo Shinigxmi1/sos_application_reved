@@ -32,7 +32,7 @@ Manage tasks efficiently with drag-and-drop, multiple boards, authentication, an
 - **Backend:** Node.js + Express.js  
 - **Database:** MongoDB (Mongoose)  
 - **Auth:** JWT & Bcrypt  
-- **Styling:** Tailwind CSS / Styled Components (depending on project)  
+- **Styling:** Tailwind CSS  
 
 ---
 
