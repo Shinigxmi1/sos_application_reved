@@ -69,6 +69,6 @@ Bonus:
 - [Drag and Drop quick tutorial](https://www.youtube.com/watch?v=u65Y-vqYNAk)
 ## Author
 
-- Website - [Dorian Urem](https://dodoburner.github.io/Portfolio/)
-- Frontend Mentor - [@dodoburner](https://www.frontendmentor.io/profile/dodoburner)
-- LinkedIn - [Dorian Urem](https://www.linkedin.com/in/dorian-urem/)
+Akash Bartwal 🔗 GitHub: https://github.com/Shinigxmi1 🔗 LinkedIn: https://linkedin.com/in/skybartwal
+
+
