@@ -178,21 +178,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-# ⚡ Want a Thumbnail/Banner for Repo?
-Main ek attractive banner image generate karke de sakta hoon (dark theme / light theme) jo repo par **Social Preview** me laga sakte ho.
-
-Just bol:
-
-**“Banner de”**
-
----
-
-# ⚡ Want README even more premium?
-With:
-- Shields.io badges  
-- Animated GIF demo  
-- Architecture diagram  
-- Dark + Light screenshots  
-
-Bol do bhai — main next level version bana dunga.
-```
