@@ -43,9 +43,6 @@ Expected Behaviour:
 Bonus: 
   - The tasks can be dragged and dropped to a new column.
 
-### Screenshot
-
-![Screenshot](https://user-images.githubusercontent.com/100496179/197352796-412b11a9-569c-49e9-95bd-a79776260cdd.png)
 
 ### Links
 
