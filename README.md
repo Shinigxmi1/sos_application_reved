@@ -46,7 +46,7 @@ Bonus:
 
 ### Links
 
-- Live Site URL: [link](https://kanban-task-management-app.netlify.app/)
+- Live Site URL: [link]([https://task-manager-web-application-chi.vercel.app/])
 
 ### Built with
 
