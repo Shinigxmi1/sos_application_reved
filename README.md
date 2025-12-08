@@ -46,7 +46,7 @@ Bonus:
 
 ### Links
 
-- Live Site URL: [link]([https://task-manager-web-application-chi.vercel.app/])
+- Live Site URL: https://task-manager-web-application-chi.vercel.app/
 
 ### Built with
 
